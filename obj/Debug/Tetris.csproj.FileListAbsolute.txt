@@ -1,0 +1,9 @@
+G:\zww\Projects\Tetris\bin\Debug\Tetris.exe.config
+G:\zww\Projects\Tetris\bin\Debug\Tetris.exe
+G:\zww\Projects\Tetris\bin\Debug\Tetris.pdb
+G:\zww\Projects\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+G:\zww\Projects\Tetris\obj\Debug\Tetris.FormMain.resources
+G:\zww\Projects\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+G:\zww\Projects\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+G:\zww\Projects\Tetris\obj\Debug\Tetris.exe
+G:\zww\Projects\Tetris\obj\Debug\Tetris.pdb
